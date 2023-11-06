@@ -3,7 +3,7 @@
 
 # Self help for Tech writers
 ### About this repository
-This repository serves as a comprehensive collection of self help content for Information Developers, Tech writers and Documentation Specilaists. 
+This repository serves as a comprehensive collection of self help content for Information Developers, Tech writers and Documentation Specialist. 
 
 
 | Sl No.  |  Document | Document type  |  Description |
