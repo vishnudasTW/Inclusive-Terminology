@@ -1,2 +1,11 @@
-# Inclusive-Terminology
-To remain committed to diversity, equity, and inclusion and to change – for the better, it is recommended to use Inclusive language, the words that are used with customers, partners, employees, and communities.
+
+
+
+# Self help for Tech writers
+### About this repository
+This repository serves as a comprehensive collection of self help content for Information Developers, Tech writers and Documentation Specilaists. 
+
+
+| Sl No.  |  Document | Document type  |  Description |
+|---|---|---|---|
+| 1  |  [Inclusive Terminology List](https://github.com/vishnudasTW/Inclusive-Terminology/wiki/Inclusive-Terminology)|  List | Identify, review, and replace non-inclusive terminology.|
